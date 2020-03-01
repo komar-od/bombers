@@ -19,7 +19,7 @@
 * Готово! 
 
 # Обновление бомбера!
-* sh NanoBomber/update.sh
+* sh bombers/update.sh
 
 # Инфо
 **Остались вопросы?** Я в [Telegram](https://t.me/komarik_od).
