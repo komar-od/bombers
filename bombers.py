@@ -731,5 +731,6 @@ while True:
         print(('{} круг пройден.').format(iteration))
         print('Возникли вопросы? Пишите разработчику в телеграм [ --> komarik_od <-- ]')
         time.sleep(0.1)
+        
     except:
         break
