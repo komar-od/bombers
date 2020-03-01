@@ -2,11 +2,7 @@ import requests, random, datetime, sys, time, argparse, os
 
 
 banner = """
-                       __              __          
-  ___  ___ ____  ___  / /  ___  __ _  / /  ___ ____
- / _ \/ _ `/ _ \/ _ \/ _ \/ _ \/  ' \/ _ \/ -_) __/
-/_//_/\_,_/_//_/\___/_.__/\___/_/_/_/_.__/\__/_/   
-                        v.6.2 ( Made in @artem450 )            
+made China v.0.0.1         
 """
 
 
@@ -733,7 +729,7 @@ while True:
     try:
         iteration += 1
         print(('{} круг пройден.').format(iteration))
-        print('Возникли вопросы? Пишите разработчику в телеграм [ --> @artem450 <-- ]')
+        print('Возникли вопросы? Пишите разработчику в телеграм [ --> komarik_od <-- ]')
         time.sleep(0.1)
     except:
         break
