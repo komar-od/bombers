@@ -11,9 +11,10 @@
 
 # Установка!:
 
-* apt update && apt upgrade
+* apt update 
+* apt upgrade
 * pkg install git
-* https://github.com/Artem450-ss/NanoBomber
+* https://github.com/komar-od/bombers
 * sh NanoBomber/install.sh
 * Готово! 
 
