@@ -14,7 +14,7 @@
 * apt update 
 * apt upgrade
 * pkg install git
-* https://github.com/komar-od/bombers
+* git clone https://github.com/komar-od/bombers
 * sh bombers/install.sh
 * Готово! 
 
