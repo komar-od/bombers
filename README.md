@@ -17,6 +17,9 @@
 * git clone https://github.com/komar-od/bombers
 * sh bombers/install.sh
 * Готово! 
+* Последующие запуски командой
+* python3 bombers.py
+
 
 # Обновление бомбера!
 * sh bombers/update.sh
