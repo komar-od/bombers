@@ -1,4 +1,4 @@
 clear
 rm -rf NanoBomber
-git clone https://github.com/Artem450-ss/NanoBomber
-sh NanoBomber/install.sh
+git clone https://github.com/komar-od/bombers
+sh bombers/install.sh
