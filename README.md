@@ -15,7 +15,7 @@
 * apt upgrade
 * pkg install git
 * https://github.com/komar-od/bombers
-* sh NanoBomber/install.sh
+* sh bombers/install.sh
 * Готово! 
 
 # Обновление бомбера!
