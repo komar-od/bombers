@@ -17,7 +17,7 @@ then
       pip3 install requests
       pip3 install colorama
       cd bombers
-      python3 nano.py
+      python3 bombers.py
 else
       if [ $numb = "2" ]
       then
@@ -27,7 +27,7 @@ else
             pip3 install requests
             pip3 install colorama
             cd bombers
-            python3 nano.py
+            python3 bombers.py
       else
       echo "Некорректный ввод"
 fi
