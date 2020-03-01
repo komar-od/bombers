@@ -5,7 +5,7 @@ echo "|---------------------------|"
 echo "| 1. Termux                 |"
 echo "| 2. iSH                    |"
 echo "|                           |"
-echo "| made by @botduckgg        |"
+echo "| made by komarik_od        |"
 echo "| Введите 1 или 2:          |"
 echo "-----------------------------"
 read numb
@@ -16,7 +16,7 @@ then
       apt install python3-pip
       pip3 install requests
       pip3 install colorama
-      cd NanoBomber
+      cd bombers
       python3 nano.py
 else
       if [ $numb = "2" ]
@@ -26,7 +26,7 @@ else
             apk add python3-pip
             pip3 install requests
             pip3 install colorama
-            cd NanoBomber
+            cd bombers
             python3 nano.py
       else
       echo "Некорректный ввод"
